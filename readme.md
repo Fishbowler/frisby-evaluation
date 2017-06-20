@@ -2,6 +2,13 @@
 
 This API challenge to evaluate some prospective tools for API exploration and automation. This project was my attempt at evaluating the latest Frisby 2 alpha.
 
+To run this, you'll need the following commands:
+* `npm install`
+* `npm install -g jasmine-node`
+* `jasmine-node .`
+
+I've also committed the VS Code bindings so that you can F5 on any individual spec.
+
 ## Challenge One - httpbin
 
 Assert that this endpoint redirects you via an HTTP/302 to example.com:
