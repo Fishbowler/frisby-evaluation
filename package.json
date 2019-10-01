@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "frisby": "next",
-    "http-proxy-agent": "^1.0.0",
+    "http-proxy-agent": "^2.1.0",
     "jasmine-node": "^1.14.5",
     "oauth": "^0.9.15"
   }
